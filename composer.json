@@ -1,0 +1,9 @@
+{
+   "require": {
+      "ext-pdo": "*",
+      "ext-json": "*"
+   },
+   "require-dev": {
+      "heroku/heroku-buildpack-php": "*"
+   }
+}
